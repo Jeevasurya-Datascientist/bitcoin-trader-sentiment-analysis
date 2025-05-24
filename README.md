@@ -22,12 +22,9 @@ This comprehensive analysis explores the relationship between cryptocurrency mar
 ## 🏗️ Project Structure
 
 bitcoin-trader-sentiment-analysis/
-│
-|
 ├── 📊 bitcoin_analysis.ipynb         
 ├── 📄 README.md                     
-├── 📈 visualizations/               
-│   
+├── 📈 visualizations/                 
 ├── 📋 requirements.txt                
 ├── 📊 sample_data/                  
 │   ├── historical_data.csv
