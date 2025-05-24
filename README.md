@@ -23,15 +23,15 @@ This comprehensive analysis explores the relationship between cryptocurrency mar
 
 bitcoin-trader-sentiment-analysis/
 │
-├── 📊 bitcoin_analysis.ipynb          # Main analysis notebook
-├── 📄 README.md                       # This file
-├── 📈 visualizations/                 # Generated plots and charts
+├── 📊 bitcoin_analysis.ipynb         
+├── 📄 README.md                     
+├── 📈 visualizations/               
 │   
-├── 📋 requirements.txt                # Python dependencies
-├── 📊 sample_data/                    # Sample datasets for demo
+├── 📋 requirements.txt                
+├── 📊 sample_data/                  
 │   ├── historical_data.csv
 │   └── fear_greed_index.csv
-└── 🎯 insights_report.md              # Key insights summary
+└── 🎯 insights_report.md            
 
 
 ## 🔬 Analysis Overview
@@ -110,7 +110,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ### Running the Analysis
 
 # Clone the repository
+
 git clone https://github.com/Jeevasurya-Datascientist/bitcoin-trader-sentiment-analysis.git
+
 cd bitcoin-trader-sentiment-analysis
 
 # Install dependencies
