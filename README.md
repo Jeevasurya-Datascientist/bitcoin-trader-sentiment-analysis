@@ -22,14 +22,16 @@ This comprehensive analysis explores the relationship between cryptocurrency mar
 ## 🏗️ Project Structure
 
 bitcoin-trader-sentiment-analysis/
+
 ├── 📊 bitcoin_analysis.ipynb         
 ├── 📄 README.md                     
 ├── 📈 visualizations/                 
-├── 📋 requirements.txt                
+├── 📋 requirements.txt 
+|── 🎯 insights_report.md    
 ├── 📊 sample_data/                  
-│   ├── historical_data.csv
-│   └── fear_greed_index.csv
-└── 🎯 insights_report.md            
+   ├── historical_data.csv
+   |── fear_greed_index.csv
+        
 
 
 ## 🔬 Analysis Overview
@@ -213,7 +215,7 @@ jupyter notebook bitcoin_analysis.ipynb
 - Public cryptocurrency market data
 
 ### **Inspiration**
-This analysis was developed as part of the PrimeTrade.ai Junior Data Scientist application process, focusing on practical applications of data science in cryptocurrency trading.
+This analysis was developed as part of the PrimeTrade.ai Junior Data Scientist application process, focusing on practical applications of data science.
 
 ### **Disclaimer**
 This analysis is for educational and research purposes only. Past performance does not guarantee future results. Always conduct your own research before making trading decisions.
