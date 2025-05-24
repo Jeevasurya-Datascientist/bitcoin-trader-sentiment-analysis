@@ -23,6 +23,7 @@ This comprehensive analysis explores the relationship between cryptocurrency mar
 
 bitcoin-trader-sentiment-analysis/
 │
+|
 ├── 📊 bitcoin_analysis.ipynb         
 ├── 📄 README.md                     
 ├── 📈 visualizations/               
@@ -197,7 +198,9 @@ jupyter notebook bitcoin_analysis.ipynb
 ## 📞 Contact & Collaboration
 
 **Portfolio**: https://jeevasurya-datascientist.github.io/jeevasurya.github.io/
+
 **LinkedIn**: https://www.linkedin.com/in/jeeva-surya/ 
+
 **Email**: jeevasurya.datascientist@gmail.com
 
 ### **Available for:**
