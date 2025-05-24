@@ -27,9 +27,12 @@ bitcoin-trader-sentiment-analysis/
 ├── 📄 README.md                     
 ├── 📈 visualizations/                 
 ├── 📋 requirements.txt 
+
 |── 🎯 insights_report.md    
 ├── 📊 sample_data/                  
+   
    ├── historical_data.csv
+   
    |── fear_greed_index.csv
         
 
